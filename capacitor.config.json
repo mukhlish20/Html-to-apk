@@ -1,0 +1,6 @@
+{
+  "appId": "com.gurukustudio.aplikasi",
+  "appName": "Aplikasi Webku",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
