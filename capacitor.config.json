@@ -1,6 +1,6 @@
 {
   "appId": "com.gurukustudio.aplikasi",
-  "appName": "Aplikasi Webku",
+  "appName": "Cube Solver",
   "webDir": "www",
   "bundledWebRuntime": false
 }
